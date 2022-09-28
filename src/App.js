@@ -207,11 +207,8 @@ function App() {
                 <b>June 2022 - Sep 2022</b>
               </p>
               <p>
-                A 3 month full time course, This course not only gave me the
-                opportunity to learn more and develop projects, but also the
-                working exposure by doing group projects uploding it to git.
-                Give presentation on our projects every week made us become more
-                confident.
+                  Took opportunity to join in a 3 months intense web development boot camp course. This gave me insights into React, JavaScript, CSS, Html and Git fundamentals. On top of this I invested my personal time to excel in the above skills. Involved in the group projects which gave exposure to real time working in a team environment. Weekly demonstration of projects helped in improving my presentation skills. This boot camp experience not only gave me academic skills but also personality development skills.
+               
               </p>
             </div>
             <div className="left-side" id="edu-right">
