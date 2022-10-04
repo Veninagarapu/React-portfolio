@@ -134,7 +134,7 @@ function App() {
             <li>• Communication skills</li>
             <li>• Problem solving</li>
             <li>• Patience and ability to remain positive under pressure.</li>
-            <li>• Can workindependently or within a team</li>
+            <li>• Can work independently or within a team</li>
             <li>• Time management and Adaptability</li>
           </ul>
         </div>
