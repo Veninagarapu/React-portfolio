@@ -82,11 +82,13 @@ function App() {
                           own first web page that I never imagined I would do. My zeal towards my dream
                           job of becoming a Web developer made me to learn Html, CSS, Bootstrap,
                           JavaScript, React and Git. With the knowledge acquired I started creating
-                          responsive web pages.
+                          responsive web pages.`}
                           <br>
+              {`
                           Recently Graduated from an intensive Web Developer boot camp from Bath Spa
-                          University.
+                          University.`}
                           <br>
+              {`
                           Seeking for an entry-level position to use my knowledge and skills in coding with
                           an organization where I can grow and make a mark on my career as well as the
                           Company.`}</p>
