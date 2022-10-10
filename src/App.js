@@ -80,7 +80,6 @@ function App() {
             To kick start my career into tech, I spent tremendous amount of time in learning 
                           code, practicing and improving myself. I remember the feeling of creating my
                           own first web page that I never imagined I would do. My zeal towards my dream
-                          To kick start my career into tech, I spent tremendous amount of time in learning
                           job of becoming a Web developer made me to learn Html, CSS, Bootstrap,
                           JavaScript, React and Git. With the knowledge acquired I started creating
                           responsive web pages.
