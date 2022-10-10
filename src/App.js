@@ -76,7 +76,10 @@ function App() {
         <div className="about-me-container">
           <div className="info">
             <h2>About me</h2>
-            <p className="bio">{` I am a passionate Web Developer with a Master's degree in Structural Engineering.
+            <p className="bio">
+              <br/>
+              <br/>
+              {` I am a passionate Web Developer with a Master's degree in Structural Engineering.
             To kick start my career into tech, I spent tremendous amount of time in learning 
                           code, practicing and improving myself. I remember the feeling of creating my
                           own first web page that I never imagined I would do. My zeal towards my dream
@@ -84,10 +87,14 @@ function App() {
                           JavaScript, React and Git. With the knowledge acquired I started creating
                           responsive web pages.`}
                           <br/>
+              <br/>
+              <br/>
               {`
                           Recently Graduated from an intensive Web Developer boot camp from Bath Spa
                           University.`}
                           <br/>
+              <br/>
+              <br/>
               {`
                           Seeking for an entry-level position to use my knowledge and skills in coding with
                           an organization where I can grow and make a mark on my career as well as the
